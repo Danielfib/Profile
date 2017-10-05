@@ -1,6 +1,6 @@
 .portfolio-header {
   position: relative;
-  background-image: url(images/header-bg.jpg);
+  background-image: url(images/teste.jpg);
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -11,7 +11,7 @@
 }
 
 .mdl-layout__title {
-  font-size: 14px;
+  font-size: 20px;
   text-align: center;
   font-weight: 300;
 }
@@ -29,8 +29,9 @@
 }
 
 .portfolio-logo {
-  background: url(images/logo.png) 50% no-repeat;
+  background: url(images/Profile.png) 50% no-repeat;
   background-size: cover;
+  border-radius: 150px;
   height: 150px;
   width: 150px;
   margin: auto auto 10px;
